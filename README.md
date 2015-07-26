@@ -13,5 +13,5 @@ Packaged via [chrome](https://developer.chrome.com/extensions/packaging)
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag WeddingToCarrousel.crx into the page that appears.
 
